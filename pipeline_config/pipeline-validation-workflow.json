@@ -45,7 +45,7 @@
       "task_key": "feature_engineering",
       "depends_on": [{"task_key": "data_transformation"}],
       "notebook_task": {
-        "notebook_path": "/Users/labuser14190605_1776915750@vocareum.com/advanced-machine-learning-operations-en_us-1.2.8/M01 - Streamlining MLOps with Databricks/1.1 Demo - Pipeline workflow notebooks/02_model_training/feature_engineering_incorrect",
+        "notebook_path": "/Users/labuser14190605_1776915750@vocareum.com/advanced-machine-learning-operations-en_us-1.2.8/M01 - Streamlining MLOps with Databricks/1.1 Demo - Pipeline workflow notebooks/02_model_training/feature_engineering_correct",
         "source": "WORKSPACE"
       },
       "existing_cluster_id": "0423-034300-ex4fhxqq",
